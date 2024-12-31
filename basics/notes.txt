@@ -1,0 +1,11 @@
+# Tutorial
+https://youtu.be/3mDny9XAgic
+
+npm i -g typescript
+tsc --init
+
+npx tsc   #or   tsc
+
+node app.js
+# when sub dir
+node scr/app.js

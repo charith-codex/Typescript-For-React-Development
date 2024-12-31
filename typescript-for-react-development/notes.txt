@@ -1,0 +1,6 @@
+Tutorial
+https://youtu.be/665UnOGx3Pg?list=TLPQMzExMjIwMjQxqRAlZp_NZQ&t=2182
+
+npm create vite@latest .
+npm install
+npm run dev
